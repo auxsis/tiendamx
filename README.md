@@ -1,1 +1,2 @@
-# tiendamx
+# odoo
+instancia odoo.sh
